@@ -69,3 +69,21 @@ console.log(old <= limiteold);
 console.log(a && b);
 console.log(a || b);
 console.log(a != b);
+
+
+
+// Questão 9 
+
+function compararNumeros(a, b) {
+    if (a > b) {
+        return ("A é maior");
+    } if (a < b) {
+        return ("B é maior");
+    } else {
+        return ("ambos são iguais");
+    }
+}
+
+console.log(compararNumeros(5, 10));
+console.log(compararNumeros(10, 5));
+console.log(compararNumeros(7, 7));
