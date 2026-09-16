@@ -32,3 +32,36 @@ console.log(altura)
 console.log(cpf)
 console.log(rg)
 
+
+// Questao 5
+
+let a = 4
+
+let b = 2
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+
+//QUESTÃO 6
+
+let name = "Lucas";
+let sobrenome = "Alves";
+let old = 27;
+let limiteold = 18;
+
+console.log(name == sobrenome);
+console.log(name === sobrenome);
+console.log(name != sobrenome);
+console.log(name !== sobrenome);
+
+console.log(old > limiteold);
+console.log(old < limiteold);
+console.log(old >= limiteold);
+console.log(old <= limiteold);
+
+// Questão 7
+console.log(a && b);
+console.log(a || b);
+console.log(a != b);
