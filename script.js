@@ -66,9 +66,11 @@ console.log(old >= limiteold);
 console.log(old <= limiteold);
 
 // Questão 7
-console.log(a && b);
-console.log(a || b);
-console.log(a != b);
+let a3
+let b3
+console.log(a3 && b3);
+console.log(a3 || b3);
+console.log(a3 != b3);
 
 
 
@@ -87,3 +89,18 @@ function compararNumeros(a, b) {
 console.log(compararNumeros(5, 10));
 console.log(compararNumeros(10, 5));
 console.log(compararNumeros(7, 7));
+
+
+
+// exercicio 10
+
+let a1 = 12;
+let b2 = 22;
+console.log("soma", a1 + b2);
+
+
+let d1 = true;
+let d2 = false;
+
+console.log(d1 && d2);
+console.log(d1 || d2);
