@@ -13,6 +13,10 @@ $ git --version
 git version 2.54.0.windows.1
 
 */
+// Questão 2
+console.log("Mensagem Inicial");
+alert("Bem vindos ao checkpoint")
+
 
 //QUESTÃO 4
 
