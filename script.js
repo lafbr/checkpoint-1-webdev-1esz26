@@ -35,3 +35,15 @@ console.log(altura)
 console.log(cpf)
 console.log(rg)
 
+// Questao 5
+
+let a = 4
+
+let b = 2
+
+console.log(a + b);
+console.log(a - b);
+console.log(a * b);
+console.log(a / b);
+
+
