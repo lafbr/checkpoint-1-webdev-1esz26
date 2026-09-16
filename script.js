@@ -25,6 +25,8 @@ let altura = 1.75;
 const cpf = 11111111111;
 const rg = 111111111;
 
+console.log("Mensagem Inicial");
+alert("Bem-vindos ao checkpoint!");
 
 console.log(nome)
 console.log(idade)
