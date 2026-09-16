@@ -13,6 +13,10 @@ $ git --version
 git version 2.54.0.windows.1
 
 */
+// Questão 2
+console.log("Mensagem Inicial");
+alert("Bem vindos ao checkpoint")
+
 
 //QUESTÃO 4
 
@@ -24,9 +28,6 @@ let altura = 1.75;
 
 const cpf = 11111111111;
 const rg = 111111111;
-
-console.log("Mensagem Inicial");
-alert("Bem-vindos ao checkpoint!");
 
 console.log(nome)
 console.log(idade)
@@ -64,3 +65,25 @@ console.log(old < limiteold);
 console.log(old >= limiteold);
 console.log(old <= limiteold);
 
+// Questão 7
+console.log(a && b);
+console.log(a || b);
+console.log(a != b);
+
+
+
+// Questão 9 
+
+function compararNumeros(a, b) {
+    if (a > b) {
+        return ("A é maior");
+    } if (a < b) {
+        return ("B é maior");
+    } else {
+        return ("ambos são iguais");
+    }
+}
+
+console.log(compararNumeros(5, 10));
+console.log(compararNumeros(10, 5));
+console.log(compararNumeros(7, 7));
