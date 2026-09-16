@@ -63,4 +63,3 @@ console.log(old > limiteold);
 console.log(old < limiteold);
 console.log(old >= limiteold);
 console.log(old <= limiteold);
-
