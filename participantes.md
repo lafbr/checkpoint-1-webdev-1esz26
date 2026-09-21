@@ -1,4 +1,4 @@
 Integrantes do grupo:
-Livia Lirio - 575776
-Lucas Alves Ferreira
-Cosme Arthur
+Livia Lirio Severi - 575776
+Lucas Alves Ferreira - 576742
+Cosme Arthur Campos Pascoal - 569542

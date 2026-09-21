@@ -1,0 +1,64 @@
+# CONTEXTO GIT - 1ESZ/lafbr-checkpoint-1-webdev-1esz26
+# Path: /Volumes/externo/FIAP/corretor-avaliacoes/turmas/2026-2/checkpoint-1/1ESZ/lafbr-checkpoint-1-webdev-1esz26
+
+## git remote -v
+origin	https://github.com/lafbr/checkpoint-1-webdev-1esz26 (fetch)
+origin	https://github.com/lafbr/checkpoint-1-webdev-1esz26 (push)
+
+## git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+
+## git log --oneline -50 (default branch)
+e03a1b0  final
+c48d8c1 ultima alterações
+e5c8260 Merge branch 'main' of https://github.com/lafbr/checkpoint-1-webdev-nome-da-turma
+47be312 Questão 9 Livia
+bf90a70  adição branch
+59636f1 Questão 7 livia
+bcf1693 Questão 7 livia
+e4bdaa7 teste
+214ef63  adicionado exercicio 6
+08ba7c5  adicionado questão 6 - Lucas
+41b1ad4 Cosme questao 5
+c6a8fbd Merge branch 'main' of https://github.com/lafbr/checkpoint-1-webdev-nome-da-turma
+3c64f1b adicionado 3_4 Lucas
+d650d04 Questão 2
+893ade1 nosso projeto
+3248623 nossos arquivos
+58c375e  meu primeiro commit da equipe Lucas, Livia, Cosme
+
+## git shortlog -sn -e (HEAD)
+17	Laboratório FIAP <labsfiap@fiap.com.br>
+
+## git log --oneline --graph --all -20
+* e03a1b0  final
+* c48d8c1 ultima alterações
+*   e5c8260 Merge branch 'main' of https://github.com/lafbr/checkpoint-1-webdev-nome-da-turma
+|\  
+| * 47be312 Questão 9 Livia
+| * 59636f1 Questão 7 livia
+| *   bcf1693 Questão 7 livia
+| |\  
+| * | e4bdaa7 teste
+* | | bf90a70  adição branch
+| |/  
+|/|   
+* |   214ef63  adicionado exercicio 6
+|\ \  
+| * | 41b1ad4 Cosme questao 5
+| |/  
+* / 08ba7c5  adicionado questão 6 - Lucas
+|/  
+*   c6a8fbd Merge branch 'main' of https://github.com/lafbr/checkpoint-1-webdev-nome-da-turma
+|\  
+| * d650d04 Questão 2
+* | 3c64f1b adicionado 3_4 Lucas
+|/  
+* 893ade1 nosso projeto
+* 3248623 nossos arquivos
+* 58c375e  meu primeiro commit da equipe Lucas, Livia, Cosme
+
+## contagem de commits HEAD
+17
